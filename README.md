@@ -4,7 +4,7 @@
 - Used JDBC along with TomCat web-container for Server-side scripting for database operation.
 - MySQL is used for database integration for storing user information.
 
-- I have uploaded the project as a ZIP file; you can download it and import it into your IDE to get started.
+# I have uploaded the project as a ZIP file; you can download it and import it into your IDE to get started.
 
 ![1](https://github.com/user-attachments/assets/d862f459-7e03-4bc1-a23e-defa2e9c96e2)
 ![2](https://github.com/user-attachments/assets/f8c032fa-7a79-4e22-a108-b3203867da56)
